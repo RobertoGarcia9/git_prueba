@@ -1,5 +1,7 @@
 Algoritmo Ejercicio_4_Programación_Relacion_6
 	//fsdfdffsfvdvvdd
+	//FEWDSCXVBDFS
+	
 	Escribir "Programa el cual se introduce un numero entero y se crea una piramide de asteriscos";
 	Escribir "=======================================================";
 	// Declaramos variables
